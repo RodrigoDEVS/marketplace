@@ -1,0 +1,165 @@
+{
+	"productos": [
+		{
+			"id": 1,
+			"nombre": "Intex Dura-Beam Deluxe Comfort Plush Airbed",
+			"descripcion": "cama de aire de felpa",
+            "imagen": "https://m.media-amazon.com/images/I/71o2f6QdepL._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 226978,
+			"cantidad": 7
+		},
+        {
+			"id": 2,
+			"nombre": "Linterna de luz negra UV",
+			"descripcion": "Detector ultravioleta de 51 leds para orina perro/gato",
+            "imagen": "https://m.media-amazon.com/images/I/71Q+Bf1b26L._AC_SL1500_.jpg",
+			"precio": 58980,
+			"cantidad": 10
+		},
+        {
+			"id": 3,
+			"nombre": "Silla de camping",
+			"descripcion": "silla plegable de perfil bajo para camping, playa, picnic, barbacoas, eventos deportivos",
+            "imagen": "https://m.media-amazon.com/images/I/91g-z6ZNP+L._AC_SX522_.jpg",
+			"precio": 200961,
+			"cantidad": 15
+		},
+        {
+			"id": 4,
+			"nombre": "Dickies DRI-TECH - Calcetines con control de humedad para hombre",
+			"descripcion": "Altura por debajo de la pantorrilla, multipack",
+            "imagen": "https://m.media-amazon.com/images/I/91Q3l8onAmS._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 46494,
+			"cantidad": 12
+		},
+        {
+			"id": 5,
+			"nombre": "Contigo Autospout",
+			"descripcion": "Botella de agua para niños",
+            "imagen": "https://m.media-amazon.com/images/I/716N6qKMQiL._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 90718,
+			"cantidad": 6
+		},
+        {
+			"id": 6,
+			"nombre": "Penn Championship",
+			"descripcion": "Pelotas de tenis de fieltro extra resistentes a presión (2 latas, 6 bolas)",
+            "imagen": "https://m.media-amazon.com/images/I/71iJpHMLKBL._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 56256,
+			"cantidad": 20
+		},
+        {
+			"id": 7,
+			"nombre": "JanSport - Mochila SuperBreak One",
+			"descripcion": "Mochila ligera para la escuela",
+            "imagen": "https://m.media-amazon.com/images/I/612xYj3bluL._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 163457,
+			"cantidad": 22
+		},
+        {
+			"id": 8,
+			"nombre": "Intex River Run II",
+			"descripcion": "Colchón inflable para 2 personas con hielera integrada y kit de reparación",
+            "imagen": "https://m.media-amazon.com/images/I/71xyXP0tQML._AC_SX522_.jpg",
+			"precio": 191154,
+			"cantidad": 15
+		},
+        {
+			"id": 9,
+			"nombre": "Sport-Brella Versa-Brella SPF 50+",
+			"descripcion": "Paraguas ajustable con abrazadera universal",
+            "imagen": "https://m.media-amazon.com/images/I/71oyRUXJpIL._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 136168,
+			"cantidad": 5
+		},
+        {
+			"id": 10,
+			"nombre": "occer Prismáticos compactos de 12 x 25 pulgadas con visión clara de baja luz",
+			"descripcion": "prismáticos de enfoque fácil de alta potencia para observación de aves, caza al aire libre, viajes, turismo",
+            "imagen": "https://m.media-amazon.com/images/I/71aIoTvKaLL._AC_SX679_.jpg",
+			"precio": 130720,
+			"cantidad": 30
+		},
+        {
+			"id": 11,
+			"nombre": "Explorer K2 Kayak",
+			"descripcion": "Juego de kayak inflable para 2 personas con remos de aluminio, bombas manuales y eléctricas..",
+            "imagen": "https://m.media-amazon.com/images/I/71Gix6EC8hL._AC_UL480_QL65_.jpg",
+			"precio": 573416,
+			"cantidad": 18
+		},
+        {
+			"id": 12,
+			"nombre": "Fitbit Versa 2 Special Edition",
+			"descripcion": "Reloj inteligente de salud y aptitud física con frecuencia cardíaca, música, Alexa integrado, seguimiento de sueño y natación, FB507BKBK, talla única , Negro, carbón",
+            "imagen": "https://m.media-amazon.com/images/I/51oXipGnfHL._AC_SX679_.jpg",
+			"precio": 531553,
+			"cantidad": 25
+		},
+        {
+			"id": 13,
+			"nombre": "Hagon PRO Ponchos",
+			"descripcion": "Ponchos de lluvia desechables para adultos (paquete de 5)",
+            "imagen": "https://m.media-amazon.com/images/I/81XyzwHPeyL._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 58980,
+			"cantidad": 32
+		},
+        {
+			"id": 14,
+			"nombre": "Tracki Rastreador GPS para vehículos, coches, niños, perros, motocicleta",
+			"descripcion": "Dispositivo de seguimiento GPS 4G LTE. Distancia ilimitada EE.UU. y todo el mundo. Pequeño portátil en tiempo real mini magnético. Requiere suscripción",
+            "imagen": "https://m.media-amazon.com/images/I/71DUnieEOBL._AC_SY679_.jpg",
+			"precio": 85724,
+			"cantidad": 20
+		},
+        {
+			"id": 15,
+			"nombre": "Amazfit Band 5",
+			"descripcion": "Monitor de actividad física con Alexa incorporado, duración de batería de 15 días",
+            "imagen": "https://m.media-amazon.com/images/I/51ja6ds+pML._AC_UL480_FMwebp_QL65_.jpg",
+			"precio": 158871,
+			"cantidad": 3
+		},
+        {
+			"id": 16,
+			"nombre": "Corrector de postura para hombres y mujeres",
+			"descripcion": "soporte ajustable en la parte superior de la espalda para clavícula para apoyar el cuello, espalda y hombro",
+            "imagen": "https://m.media-amazon.com/images/I/71uQbZ1mGDL._AC_UL480_QL65_.jpg",
+			"precio": 39729,
+			"cantidad": 18
+		},
+        {
+			"id": 17,
+			"nombre": "Iron Gym barra de dominadas",
+			"descripcion": "Barra para puerta para entrenamiento total de la parte superior del cuerpo",
+            "imagen": "https://m.media-amazon.com/images/I/61B0M2L+wrL._AC_SX522_.jpg",
+			"precio": 128223,
+			"cantidad": 14
+		},
+        {
+			"id": 18,
+			"nombre": "FLYBIRD Banco de pesas",
+			"descripcion": "Banco de entrenamiento de fuerza ajustable para entrenamiento de cuerpo completo",
+            "imagen": "https://m.media-amazon.com/images/I/61mHRNtUdAL._AC_SX522_.jpg",
+			"precio": 770927,
+			"cantidad": 12
+		},
+        {
+			"id": 19,
+			"nombre": "Coleman Tienda de campaña",
+			"descripcion": "Tienda de campaña con configuración instantánea en 60 segundos",
+            "imagen": "https://m.media-amazon.com/images/I/71lSBmA+nyL._AC_UL480_QL65_.jpg",
+			"precio": 780735,
+			"cantidad": 28
+		},
+        {
+			"id": 20,
+			"nombre": "Mochila cruzada tipo bandolera para viajes y senderismo",
+			"descripcion": "Bolsa de pecho",
+            "imagen": "https://m.media-amazon.com/images/I/610QzKj7tLL._AC_UX679_.jpg",
+			"precio": 108926,
+			"cantidad": 6
+		}
+
+]
+}
